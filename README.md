@@ -11,9 +11,9 @@ It is required that all NEW representatives  take and pass the Securities Indust
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
 | :-------- | :------- | -------: |-------: |
 | SIE  | 75 Multiple-Choice Questions   | 1 hour and 45 minutes    | 70% |
-| S6 | 50 Multiple-Choice Questions | 1 hour and 30 minutes   | 72% |
+| S6 | 50 Multiple-Choice Questions | 1 hour and 30 minutes   | 70% |
 
-After passing the SIE and Series 6 Exam, representatives must also pass at least ONE of the following Securities Law Exams in order to be registered to conduct business in any State, and must be approved in their *home* state.
+Compared to the SIE exam questions, Series 6 questions are much more situational than definitional, and require a deeper knowledge of investment company and variable products.  After passing the SIE and Series 6 Exams, representatives must also pass at least ONE of the following Securities Law Exams in order to be registered to conduct business in any State, and must be approved in their *home* state.
 
 1. Series 63 – Uniform Securities Agent State Law Exam 
 2. Series 65 – Uniform Investment Adviser Law Exam
