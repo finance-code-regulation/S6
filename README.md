@@ -1,4 +1,4 @@
-# Series 6 – Investment Company and Variable Contracts Products Representative
+# Series 6 – Investment Company and Variable Contracts Products
 
 It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 6 Exam. The FINRA Series 6 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state. The Series 6 covers far less information than a tradional Series 7 License, however is useful to those who are planning to deal with a limited number of investment products, as furthered hereunder.</br>
 
