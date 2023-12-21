@@ -70,7 +70,6 @@ The Series 6 Exam covers a limited range of investment products with respect to 
 3. Closed-End Funds.</br>
 
 &nbsp; B. &nbsp; &nbsp; Characteristics and Features of Investment Products.</br>
-
 &nbsp; C. &nbsp; &nbsp; Investment Objectives and Risks.</br>
 
 ## IV. Securities and Tax Regulations
