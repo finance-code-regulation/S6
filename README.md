@@ -1,7 +1,6 @@
 # Series 6 – Investment Company and Variable Contracts Products Representative
 
-
-It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 6 Exam. The FINRA Series 6 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state. As individuals, we understand different people have different needs and we can also accomodate individual sessions focusing and targeting on "problem areas" to position our students to pass the exams on the first attempt.</br>
+It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 6 Exam. The FINRA Series 6 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state. The Series 6 covers far less information than a tradional Series 7 License, however is useful to those who are planning to deal with a limited number of investment products, as furthered hereunder.</br>
 
 1. Securities Industry Essentials® (SIE®) Exam </br>
 2. Series 6 –  Investment Company and Variable Contracts Products Representative</br>
@@ -11,7 +10,8 @@ It is required that all NEW representatives  take and pass the Securities Indust
 | Exam    | Questions | Allotted Exam Time | Required To Pass |
 | :-------- | :------- | -------: |-------: |
 | SIE  | 75 Multiple-Choice Questions   | 1 hour and 45 minutes    | 70% |
-| S6 | 50 Multiple-Choice Questions | 1 hour and 30 minutes   | 70% |
+| *S6* | 50 Multiple-Choice Questions | 1 hour and 30 minutes   | 70% |
+| S7 | 125 Multiple-Choice Questions | 3 hours and 45 minutes   | 72% |
 
 Compared to the SIE exam questions, Series 6 questions are much more situational than definitional, and require a deeper knowledge of investment company and variable products.  After passing the SIE and Series 6 Exams, representatives must also pass at least ONE of the following Securities Law Exams in order to be registered to conduct business in any State, and must be approved in their *home* state.
 
@@ -38,8 +38,7 @@ Candidates who passes the Series 6 exam (35/50 Correct Answers) are qualified fo
 
 
 </br></br>
-
-The Exam is structured and distributed into the following four major groups.</br>
+The Exam is structured and distributed into the following four major groups, which are further dissected throughout the course and its modules.</br>
 
 
 | Section    | Description | Questions | Weight |
@@ -105,8 +104,7 @@ The Series 6 Exam covers a limited range of investment products with respect to 
 &nbsp; C. &nbsp; &nbsp; Customer Communication and Disclosures.</br>
 
 ## X. Examination Preparation Strategies
-&nbsp; A. &nbsp; &nbsp; Study Materials and Resources.</br>
-&nbsp; B. &nbsp; &nbsp; Sample Questions and Practice Exams.</br>
-&nbsp; C. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
+&nbsp; A. &nbsp; &nbsp; Study Materials and Practice Exams.</br>
+&nbsp; B. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
 
 
