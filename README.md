@@ -1,6 +1,6 @@
 # Series 6 – Investment Company and Variable Contracts Products Representative
 
-Securities Professional Exam Requirements.</br></br>
+
 It is required that all NEW representatives  take and pass the Securities Industry Essentials® (SIE®) Exam as a pre-requisite to taking the Series 6 Exam. The FINRA Series 6 is a corequisite exam that needs to be successfully completed in addition to the Series 63, 65, or 66 exam before a candidate can apply to register with a state. As individuals, we understand different people have different needs and we can also accomodate individual sessions focusing and targeting on "problem areas" to position our students to pass the exams on the first attempt.</br>
 
 1. Securities Industry Essentials® (SIE®) Exam </br>
@@ -27,10 +27,86 @@ Compared to the SIE exam questions, Series 6 questions are much more situational
 | S65    | 130 Multiple-Choice Questions    | 3 hours   | 70% |
 
 
-Major Job Functions	Number of Exam Items
-(F1) Seeks Business for the Broker-dealer from Customers and Potential Customers	12
-(F2 Opens Accounts After Obtaining and Evaluating Customers’ Financial Profile and Investment Objectives	8
-(F3) Provides Customers with Information About Investments, Makes Recommendations, Transfers Assets and Maintains Appropriate Records	25
-(F4) Obtains and Verifies Customers’ Purchase and Sales Instructions; Processes, Completes and Confirms Transactions	5
-TOTAL	50
+
+## Permitted Activities
+Candidates who passes the Series 6 exam (35/50 Correct Answers) are qualified for the solicitation, purchase and/or sale of the following securities products:</br>
+1. mutual funds (closed-end funds on the initial offering only),</br>
+2. variable annuities,</br>
+3. variable life insurance,</br>
+4. unit investment trusts (UITs), and</br>
+5. municipal fund securities [e.g., 529 savings plans, local government investment pools (LGIPs)].
+
+
+</br></br>
+
+The Exam is structured and distributed into the following four major groups.</br>
+
+
+| Section    | Description | Questions | Weight |
+| :-------- | :------- | -------: |-------: |
+| 1 | Customers and Potential Customers  | 12 | 24% |
+| 2 | Financial Profile and Investment Objectives  | 8 | 16% |
+| 3 | Disclosure, Suitability, Assets, and Records | 25 |  50% |
+| 4 | Transactions, Confirmations, Purchases, and Sales  | 5 | 10% |
+| **Total** |  | **50** | **100%** |
+
+
+The Series 6 Exam covers a limited range of investment products with respect to the Series 7 and mainly focuses on sales practices, industry regulations, and suitability. Understanding the different types of investment companies, retirement plans, and regulatory guidelines is also crucial as referenced below this course is covered in a span of several modules which is also available at fast/ slow paces - depending on your schedule.</br></br>
+
+## I. Introduction to Series 6 Exam
+&nbsp; A. &nbsp; &nbsp; Purpose and Structure of Series 6.</br>
+&nbsp; B. &nbsp; &nbsp; Overview of Financial Products Covered.</br>
+&nbsp; C. &nbsp; &nbsp; Regulatory Framework and Responsibilities.</br>
+
+## II. Securities Markets and Regulatory Agencies
+&nbsp; A. &nbsp; &nbsp; Overview of Securities Markets.</br>
+&nbsp; B. &nbsp; &nbsp; Roles of Regulatory Agencies (SEC, FINRA).</br>
+&nbsp; C. &nbsp; &nbsp; Securities Exchange Act of 1934 and Investment Company Act of 1940.</br>
+
+## III. Investment Companies and their Products
+&nbsp; A. &nbsp; &nbsp; Types of Investment Companies.</br>
+
+1. Mutual Funds.</br>
+2. Unit Investment Trusts (UITs).</br>
+3. Closed-End Funds.</br>
+
+&nbsp; B. &nbsp; &nbsp; Characteristics and Features of Investment Products.</br>
+
+&nbsp; C. &nbsp; &nbsp; Investment Objectives and Risks.</br>
+
+## IV. Securities and Tax Regulations
+&nbsp; A. &nbsp; &nbsp; Securities Act of 1933 and 1934.</br>
+&nbsp; B. &nbsp; &nbsp; Regulatory Requirements for Securities Offerings.</br>
+&nbsp; C. &nbsp; &nbsp; Tax Considerations for Investors.</br>
+
+## V. Mutual Fund Structures and Operations
+&nbsp; A. &nbsp; &nbsp; Mutual Fund Classes and Share Types.</br>
+&nbsp; B. &nbsp; &nbsp; Sales Charges and Fees.</br>
+&nbsp; C. &nbsp; &nbsp; Redemption and Distribution of Mutual Fund Shares.</br>
+
+## VI. Variable Annuities and Insurance Products
+&nbsp; A. &nbsp; &nbsp; Features and Benefits of Variable Annuities.</br>
+&nbsp; B. &nbsp; &nbsp; Types of Insurance Products.</br>
+&nbsp; C. &nbsp; &nbsp; Suitability and Ethical Considerations.</br>
+
+## VII. Retirement Plans and Regulations
+&nbsp; A. &nbsp; &nbsp; Types of Retirement Plans (IRA, 401(k), etc.).</br>
+&nbsp; B. &nbsp; &nbsp; ERISA and Regulation of Pension Plans.</br>
+&nbsp; C. &nbsp; &nbsp; Tax Considerations in Retirement Planning.</br>
+
+## VIII. Customer Account and Investment Strategies
+&nbsp; A. &nbsp; &nbsp; Account Types (Individual, Joint, etc.).</br>
+&nbsp; B. &nbsp; &nbsp; Investment Strategies based on Client Objectives.</br>
+&nbsp; C. &nbsp; &nbsp; Suitability and Client Recommendations.</br>
+
+## IX. Sales Practices and Regulations
+&nbsp; A. &nbsp; &nbsp; Regulation of Sales Activities.</br>
+&nbsp; B. &nbsp; &nbsp; Ethical Considerations in Sales Practices.</br>
+&nbsp; C. &nbsp; &nbsp; Customer Communication and Disclosures.</br>
+
+## X. Examination Preparation Strategies
+&nbsp; A. &nbsp; &nbsp; Study Materials and Resources.</br>
+&nbsp; B. &nbsp; &nbsp; Sample Questions and Practice Exams.</br>
+&nbsp; C. &nbsp; &nbsp; Test-Taking Strategies and Time Management.</br>
+
 
